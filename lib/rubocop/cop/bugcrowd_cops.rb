@@ -2,6 +2,7 @@
 
 require_relative 'bugcrowd/database'
 require_relative 'bugcrowd/faker'
+require_relative 'bugcrowd/visit_in_before_hook'
 
 require_relative 'bugcrowd/prefer_text_to_string_column'
 require_relative 'bugcrowd/uuid_primary_keys'
