@@ -4,3 +4,8 @@
 #   Description: 'TODO: Write a description of the cop.'
 #   Enabled: pending
 #   VersionAdded: '0.80'
+
+Bugcrowd/DangerousTransaction:
+  Description: Use the correct
+  Enabled: pending
+  VersionAdded: '0.80'
